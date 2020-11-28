@@ -1,2 +1,3 @@
 # Keeper-App
-Created with CodeSandbox
+This is an App similiar to Google Keep.
+It creates notes with a title and content.
